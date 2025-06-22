@@ -30,25 +30,6 @@ It predicts **sentiment** and **emotions** from text (like social media posts, j
 
 ---
 
-## 📁 Project Files
 
-| File | Description |
-|------|-------------|
-| `MindLens_AI_Mental_Health_Analyzer_Final.ipynb` | Cleaned, final Colab notebook |
-| `requirements.txt` | Python libraries used |
-| `README.md` | This file |
-| `MindLens_Final_Merged_Data.csv` | ⛔ Large file – [Download from Google Drive](https://drive.google.com/your-shared-link) or use sample below |
 
----
 
-## 🚀 Getting Started
-
-```bash
-# Clone this repo
-git clone https://github.com/your-username/MindLens-Mental-Health-Analyzer.git
-cd MindLens-Mental-Health-Analyzer
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the notebook in Jupyter or Colab
